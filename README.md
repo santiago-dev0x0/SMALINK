@@ -1,7 +1,7 @@
-# SMALINK - URL Shortener SaaS
+# SMALINK - URL Shortener 
 
 ## 📖 Descripción
-Plataforma SaaS para acortar URLs con análisis de rendimiento.
+Plataforma  para acortar URLs con análisis de rendimiento.
 
 ## 🚀 Quick Start
 ```bash
